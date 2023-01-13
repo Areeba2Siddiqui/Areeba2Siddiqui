@@ -1,3 +1,4 @@
+![logo](https://github.com/Areeba2Siddiqui/Areeba2Siddiqui/blob/main/AREEBA%20SIDDIQUI.png)
 <h1 align="center">Hi 👋, I'm Areeba Siddiqui</h1>
 <h3 align="center">A passionate junior data analyst from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
